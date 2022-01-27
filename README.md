@@ -18,7 +18,6 @@ https://user-images.githubusercontent.com/97626133/149330328-10ee383c-77d0-48b4-
 
 ## Screen shots
 
-![Screenshot_2022-01-13-13-38-24-223_com example news_app](https://user-images.githubusercontent.com/97626133/149331464-5edb78a9-b52c-424d-ab68-47bc8edef863.jpg)
-![Screenshot_2022-01-13-13-38-31-776_com example news_app](https://user-images.githubusercontent.com/97626133/149331478-5116cda0-8fa5-4dae-9e57-6659c1f9195a.jpg)
-![Screenshot_2022-01-13-13-38-40-406_com example news_app](https://user-images.githubusercontent.com/97626133/149331490-30ac4b04-c4a8-4d73-bdb1-d49c4c765e1a.jpg)
+![News App](https://user-images.githubusercontent.com/97626133/151382509-e951ddbb-2d9f-4c46-9086-34fd929ec6ed.jpg)
+
 
